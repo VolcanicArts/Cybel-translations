@@ -38,7 +38,7 @@
 	"INVALID_ACTION": "An invalid action has been specified",
 	"NON_DISABLEABLE_COMMAND": "That command cannot be disabled",
 	"COMMAND_ENABLED": "`%s` has been enabled",
-	"COMMAND_DISABLED": "`%s` has been disabled"
+	"COMMAND_DISABLED": "`%s` has been disabled",
 	
 	"CURRENT_LIMIT": "The limit is currently %s",
 	"INVALID_LIMIT": "That is not a valid limit",
