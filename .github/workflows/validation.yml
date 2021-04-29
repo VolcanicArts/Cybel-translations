@@ -16,5 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          node-version: '14'
+          check-latest: true
+      - run: npm install -g jsonlint
       - name: json-linter
         run: sh ./scripts/json-linter.sh
