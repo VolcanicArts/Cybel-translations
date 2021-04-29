@@ -1,4 +1,4 @@
-jsonFiles = `ls ../translations/*.json`
+jsonFiles = `ls ./translations/*.json`
 for entry in $jsonFiles
 do
   jsonlint $entry
