@@ -70,5 +70,5 @@
 	
 	"INVALID_INDEX": "Podany indeks nie jest prawidłową liczbą",
 	"INDEX_NOT_WITHIN_RANGE": "Podany indeks wychodzi poza kolejke.",
-	"INDEX_NOT_WITHIN_RANGE_GENERIC": "Indeks wychodzi poza kolejke.",
+	"INDEX_NOT_WITHIN_RANGE_GENERIC": "Indeks wychodzi poza kolejke."
 }

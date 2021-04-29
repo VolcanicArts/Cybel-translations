@@ -70,5 +70,5 @@
 	
 	"INVALID_INDEX": "De aangegeven index is geen angegeven nummer",
 	"INDEX_NOT_WITHIN_RANGE": "De aangevegen index is niet binnenin de wachtrij zijn lengte",
-	"INDEX_NOT_WITHIN_RANGE_GENERIC": "Een aangegeven index is niet binnenin de lengte van de wachtrij",
+	"INDEX_NOT_WITHIN_RANGE_GENERIC": "Een aangegeven index is niet binnenin de lengte van de wachtrij"
 }
