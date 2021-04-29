@@ -52,8 +52,8 @@
 	"USER_PERM_SET": "Gebruiker `%s` werd veranderd naar `%s`",
 	"ROLE_PERM_SET": "Rol `%s` werd veranderd naar `%s`",
 	
-	"PREFIX_TOO_SHORT": "De prefix can niet korter zijn dan %s character",
-	"PREFIX_TOO_LONG": "De prefix kan niet langer zijn dan %s characters",
+	"PREFIX_TOO_SHORT": "De prefix can niet korter zijn dan %s karakter",
+	"PREFIX_TOO_LONG": "De prefix kan niet langer zijn dan %s karakters",
 	"PREFIX_SET": "De prefix werd veranderd naar `%s`",
 	
 	"CHOOSE_COMMAND_TYPE": "Kies een commandotype",
