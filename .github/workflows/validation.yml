@@ -19,6 +19,9 @@ jobs:
         with:
           node-version: '14'
           check-latest: true
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '14'
       - run: npm install -g jsonlint
       - name: json-linter
         run: sh ./scripts/json-linter.sh
