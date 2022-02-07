@@ -16,7 +16,7 @@
 	"INCREASE_POSITION": "Tijd met %s overgeslaan",
 	"INCREASE_POSITION_WILL_SKIP": "Tijd met %s overgeslaan. Tijd over duratie. Track overslaan",
 	"PAUSE": "Huidige track pauzeren",
-	"AUTO_PAUSE": "Alle leden zijn verdoofd. Huidige trach pauzeren",
+	"AUTO_PAUSE": "Alle leden zijn verdoofd. Huidige track pauzeren",
 	"RESUME": "Huidige track hervatten",
 	"AUTO_RESUME": "Minstens 1 lid is niet verdoofd. Huidige track hervatten",
 	"REMOVE_RANGE": "%s tracks verwijderd",
