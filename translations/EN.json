@@ -70,5 +70,5 @@
 	
 	"INVALID_INDEX": "The index provided is not a valid number",
 	"INDEX_NOT_WITHIN_RANGE": "The index provided is not within the queue's size",
-	"INDEX_NOT_WITHIN_RANGE_GENERIC": "An index provided is not within the queue's size",
+	"INDEX_NOT_WITHIN_RANGE_GENERIC": "An index provided is not within the queue's size"
 }
